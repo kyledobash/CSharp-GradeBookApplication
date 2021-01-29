@@ -12,11 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Instructions", "Instructions", "{EA286AF9-C6D4-49C5-BDB5-BEBDDCCB6ADB}"
-	ProjectSection(SolutionItems) = preProject
-		01-create-gradebooktype-enum.md = 01-create-gradebooktype-enum.md
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,9 +29,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{EA286AF9-C6D4-49C5-BDB5-BEBDDCCB6ADB} = {FD0697C2-7B78-4B8C-9751-5A59138E0B8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33413B4B-A4EA-4200-B3B5-570B69700828}
